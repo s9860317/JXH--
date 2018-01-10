@@ -52,7 +52,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(740, 440);
+            this.tabControl1.Size = new System.Drawing.Size(770, 440);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -62,7 +62,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(732, 414);
+            this.tabPage1.Size = new System.Drawing.Size(762, 414);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "GIS";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -100,7 +100,7 @@
             // 
             this.splitContainer1.Panel2.Controls.Add(this.mapControl1);
             this.splitContainer1.Panel2.Controls.Add(this.toolStrip1);
-            this.splitContainer1.Size = new System.Drawing.Size(466, 408);
+            this.splitContainer1.Size = new System.Drawing.Size(496, 408);
             this.splitContainer1.SplitterDistance = 206;
             this.splitContainer1.TabIndex = 1;
             // 
@@ -110,7 +110,7 @@
             this.openTablesStripButton1});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(464, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(494, 25);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -131,7 +131,7 @@
             this.mapControl1.IgnoreLostFocusEvent = false;
             this.mapControl1.Location = new System.Drawing.Point(0, 25);
             this.mapControl1.Name = "mapControl1";
-            this.mapControl1.Size = new System.Drawing.Size(464, 171);
+            this.mapControl1.Size = new System.Drawing.Size(494, 171);
             this.mapControl1.TabIndex = 1;
             this.mapControl1.Text = "mapControl1";
             // 
@@ -139,7 +139,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(740, 440);
+            this.ClientSize = new System.Drawing.Size(770, 440);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
             this.Text = "主界面";
