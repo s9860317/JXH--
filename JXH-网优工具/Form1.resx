@@ -117,6 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="mapControl1.DesignTimeTool" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value />
+  </metadata>
+  <metadata name="mapControl1.LeftButtonTool" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value />
+  </metadata>
+  <metadata name="mapControl1.MiddleButtonTool" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value />
+  </metadata>
+  <metadata name="mapControl1.RightButtonTool" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value />
+  </metadata>
   <metadata name="mapControl1.Zoom" type="System.Double, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>0</value>
   </metadata>
@@ -126,14 +138,14 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="openTablesStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFhSURBVDhPlVKhsoMwEERWvt+oRNYikUhsJTIyFolExkYi
-        I7GRkchYZGTkvduj7Ws76ZvpzdzcLOH29japqBA6dNSsJ2rXH6nAn6JI0LgT+TyRT5xcgXPOt9PXKBJg
-        st0HuvoLmagExxhvp6/xUYFLI41bJxX4KwJMXFm6YRVrmv9XoEMvEx7JpqH6bMgmxdUKvizPWZHyh7EV
-        GkKeRarnisZAlhXwN1YBBSE7NnSRdLuR2rtajK1aITA0bT1N8SqykUvSosCmgebYix8qtDT4hmwcqV9r
-        WUsUbHm5TbKiANPRbNJVbmPh67RR841omjcQKlZwPgi072Wv+56oZ1Mx4UTTjluYBNf2RPVT1W44CGAE
-        dgG4J36Sa4wdK9CCQwgv/+z7fnggVr4FJqBRhUYeEjCaSq+xTMAT5ziwYRepwCAoRZEAO8Owkd8IFAB/
-        RaB8+2cY5+C67wgQ78aW9ici+gU/c0XcIQf43AAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABRElEQVQ4T4VRLZeFIBA1GvdvvGi0Go1G
+        qpFIpBqJRirRSKQSicapRCLRvbyHu2/dd45z5txzdebOF83x12SYBteO7gsIXv++2VUw2NZn5ZMCguec
+        a+C0qwC1TeSz7zUJcCKqgdM+dLBpWfYJCH4vQFWXlY7cpfVzBxkYKlV3BX3WJgmfDXi//XgjfLlBg6SQ
+        Vwzg84rUcBiHz6zQIWTr0wa3UQOZ7XCDZiwCrXamaMYk8C1JdDCJr8SwjAgj94OhhbkOE5YOe96e9Qw6
+        oDyydZpxqy0pQ1KTXHeIBbOPIpCeYcTXuMCHblxSKuJKCrwzbXeitLwIsAcmA3sZYuWsNJkowUMINUAU
+        Yyw7PG/1a6iEVBEGPBw48i6P/U9g2pU49z0QHIIaOO0qwNzYcgkMHcDvBcKPdUvTcjvdC2DvN7gscBzH
+        N23+Rs1bSjBGAAAAAElFTkSuQmCC
 </value>
   </data>
 </root>
